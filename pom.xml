@@ -4,7 +4,7 @@
   <groupId>com.internetbanking.bank</groupId>
   <artifactId>banking</artifactId>
   <packaging>jar</packaging>
-  <version>2.0-SNAPSHOT</version>
+  <version>3.0-SNAPSHOT</version>
   <name>banking</name>
   <url>http://maven.apache.org</url>
    <properties> 
